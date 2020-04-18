@@ -1,0 +1,35 @@
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\bin\Debug\instagram.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\bin\Debug\instagram.exe
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\bin\Debug\instagram.pdb
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.kaydol.resources
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.exe
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.pdb
+c:\users\acer\documents\visual studio 2013\Projects\instagram\instagram\obj\Debug\instagram.giris.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.anasayfa.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.resimekle.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.kesfet.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.profil.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.takip.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.yorum.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\instagram\instagram\obj\Debug\instagram.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\instagram\instagram\bin\Debug\instagram.exe.config
+C:\Users\acer\Desktop\instagram\instagram\obj\Debug\instagram.exe
+C:\Users\acer\Desktop\instagram\instagram\obj\Debug\instagram.pdb
+C:\Users\ASUS\Desktop\C#\instagram\instagram\bin\Debug\instagram.exe.config
+C:\Users\ASUS\Desktop\C#\instagram\instagram\bin\Debug\instagram.exe
+C:\Users\ASUS\Desktop\C#\instagram\instagram\bin\Debug\instagram.pdb
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.anasayfa.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.giris.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.kaydol.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.kesfet.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.profil.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.resimekle.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.takip.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.yorum.resources
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.exe
+C:\Users\ASUS\Desktop\C#\instagram\instagram\obj\Debug\instagram.pdb
